@@ -57,7 +57,7 @@ class DiamondRush {
                                         play = TextIO.getlnString();
                                 }
                         } while (true);
-                        System.out.print("\nWould you like to play again? ");
+                        System.out.print("\n Would you like to play again? ");
                         play = TextIO.getlnString();
                 } while (true);
 
